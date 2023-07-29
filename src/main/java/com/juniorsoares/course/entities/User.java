@@ -1,4 +1,4 @@
-package com.juniorsoares.demo.entities;
+package com.juniorsoares.course.entities;
 
 import java.io.Serializable;
 import java.util.Objects;
