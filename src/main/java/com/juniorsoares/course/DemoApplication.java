@@ -1,4 +1,4 @@
-package com.juniorsoares.demo;
+package com.juniorsoares.course;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
